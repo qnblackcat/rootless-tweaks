@@ -19,5 +19,6 @@
 | PassBy | giorgioiavicoli | https://github.com/giorgioiavicoli/PassBy | No Activator Event |
 | Powercuff | dlevi309| https://github.com/dlevi309/Powercuff | Forked of rpetrich/Powercuff, more options |
 | Selector | Baw Apple| https://gitlab.com/Baw-Appie/Selector |  |
+| SwipeSelection | brendonjkding | https://github.com/brendonjkding/SwipeSelection | Forked of kylehowells/SwipeSelection. [How to use](https://github.com/brendonjkding/SwipeSelection/blob/8d62e7506b7fa803a256c154966aa2185e8217ce/Tweak.xm#L1)  |
 | Truecuts | udevsharold| https://github.com/udevsharold/Truecuts | Forked of EthanRDoesMC/Truecuts, also disable automation notification |
 
