@@ -11,6 +11,7 @@
 
 | **Tweaks** | **Developer** | **Source code** | **Note** |
 | - | - | - | - |
+| AdvancedBrightnessSlider | jschiefner | https://github.com/jschiefner/advanced-brightness-slider-tweak |  |
 | Atlas | ChristopherA8 | https://github.com/ChristopherA8/Atlas | Tweak's preference not working. _Cephei issues?!_ |
 | Axon | Baw Apple | https://github.com/Baw-Appie/Axon | |
 | CCCalc | Halo Michael | https://github.com/Halo-Michael/CCCalc | Forked of gilesgc/CCCalc|
