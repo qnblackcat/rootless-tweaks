@@ -10,7 +10,6 @@
 ### 
 | **Tweaks** | **Developer** | **Source code** | **Note** |
 | - | - | - | - |
-| AdvancedBrightnessSlider | jschiefner | https://github.com/jschiefner/advanced-brightness-slider-tweak |  |
 | Atlas | ChristopherA8 | https://github.com/ChristopherA8/Atlas | Tweak's preference not working. _Cephei issues?!_ |
 | Axon | Baw Apple | https://github.com/Baw-Appie/Axon | |
 | Barmoji | Lessica | https://github.com/Lessica/Barmoji | Forked from yur1xpp/Barmoji |
